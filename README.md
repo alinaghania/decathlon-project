@@ -1,1 +1,1 @@
-# decathlon-project
+# Pose_detection_DECATHLON
